@@ -1,10 +1,15 @@
-[![Profile Cover](/media/Cover.jpg)](https://www.ruveloper.dev)
+<a href="https://www.ruveloper.dev" target="_blank">
+    <picture>
+        <source srcset="/media/cover.webp" type="image/webp">
+        <img src="/media/cover.png" alt="Cover image">
+    </picture>
+</a>
 
-<h1 align="center">Welcome 👋, I'm Ruben Caballero </h1>
-<h3 align="center">A biomedical engineering 🦾 and a Python Developer 👨‍💻 </h3>
+<h1 align="center">Welcome 👋, </h1>
 
-- 🌱 I’m currently growing in Backend Development and Flutter
-- 💖 Love 🏊🎧🎮🕺🏻🏍 
+- 🌱 I'm constantly growing in Backend Development.
+- 📱 I'm a Flutter enthusiast.
+- 💖 Love 🎧🎮🏍 and automating tasks with Python.
 
 
 ### Languages and Tools:
