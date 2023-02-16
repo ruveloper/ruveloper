@@ -32,48 +32,28 @@
 ## Latest Projects:
 
 <!-- LATEST-PROJECTS-LIST:START -->
+## Latest Projects:
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="https://www.ruveloper.dev/media/cms/0d72db9912af4a7cb8949ca054503f8e.jpg">
-<p align="center">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL">
-</p>
-</a>
+ <a href="https://www.asoribu.com">
+ <img src="https://www.ruveloper.dev/media/cms/0d72db9912af4a7cb8949ca054503f8e.jpg" alt="Project ASORIBU Platform">
+ <p align="center"><img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python"> <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django"> <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web"> <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL"></p>
+ </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="https://www.ruveloper.dev/media/cms/1839069372a9454db79ecb288d5d8b4a.jpg">
-<p align="center">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL">
-</p>
-</a>
+ <a href="https://www.ruveloper.dev/projects/appbiomedica">
+ <img src="https://www.ruveloper.dev/media/cms/1839069372a9454db79ecb288d5d8b4a.jpg" alt="Project appBiomédica">
+ <p align="center"><img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python"> <img height="20px" src="https://www.ruveloper.dev/media/cms/4191a0cd4de345ecb3450533a8d4b2fe.svg" alt="Qt"> <img height="20px" src="https://www.ruveloper.dev/media/cms/73f9e7c6c97f42fd9aa4bb0bfe32be44.svg" alt="Google Coud"> <img height="20px" src="https://www.ruveloper.dev/media/cms/b6f9df65236b4fafaa85fd3a258622ee.svg" alt="Firebase"></p>
+ </a>
 </td>
 <td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="https://www.ruveloper.dev/media/cms/594f4f229a894ff6ab69ce65e4bdd8ee.jpg">
-<p align="center">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web">
-    <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL">
-</p>
-</a>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<a href="https://www.ruveloper.dev/projects/"><p align="center"><strong>VIEW MORE ABOUT MY PROJECTS</strong></p></a>
+ <a href="https://www.ruveloper.dev/projects/selebot-paicovid">
+ <img src="https://www.ruveloper.dev/media/cms/594f4f229a894ff6ab69ce65e4bdd8ee.jpg" alt="Project SeleBot PAICOVID">
+ <p align="center"><img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python"> <img height="20px" src="https://www.ruveloper.dev/media/cms/aa75ed3785854f0a9fcaa7ae97ada2e6.svg" alt="Selenium"></p>
+ </a>
 </td>
 </tr>
 </table>
-
-<p align="right"><sub>[Bot] Projects updated on 02-15-2023</sub></p>
+<p align="right"><sub>[Bot] Projects updated on 02-16-2023</sub></p>
 <!-- LATEST-PROJECTS-LIST:END -->
