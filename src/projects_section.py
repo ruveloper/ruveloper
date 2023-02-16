@@ -39,6 +39,11 @@ def generate_latest_projects_section(endpoint: str, api_endpoint: str) -> str:
                          f'\n <img src="{project_image_url}" alt="Project {project_name}">' \
                          f'\n <p align="center">{" ".join(project_technologies_text)}</p>' \
                          f'\n </a>\n</td>\n'
-    projects_text += '</tr>\n</table>\n'
+    projects_text += '</tr>\n' \
+                     '<tr>\n<td colspan="3">\n' \
+                     f'<a href="{endpoint}">\n' \
+                     '<p align="center"><strong>EXPLORE PROJECTS</strong></p>\n' \
+                     '</a>\n</td>\n</tr>\n'
+    projects_text += '</table>\n'
     projects_text += f'<p align="right"><sub>[Bot] Projects updated on {datetime.now().strftime("%m-%d-%Y")}</sub></p>\n'
     return projects_text

@@ -54,6 +54,13 @@
  </a>
 </td>
 </tr>
+<tr>
+<td colspan="3">
+<a href="https://www.ruveloper.dev/projects/">
+<p align="center"><strong>EXPLORE PROJECTS</strong></p>
+</a>
+</td>
+</tr>
 </table>
 <p align="right"><sub>[Bot] Projects updated on 02-16-2023</sub></p>
 <!-- LATEST-PROJECTS-LIST:END -->

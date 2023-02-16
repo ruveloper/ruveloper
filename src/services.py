@@ -26,7 +26,7 @@ def update_readme_section(readme_path: Path, section_name: str, section_text: st
     file_data = ""
 
     # * Read file content
-    with open(readme_path, "r") as f:
+    with open(readme_path, "r", encoding="utf-8") as f:
         file_data = f.read()
 
     # * Find the section to replace
@@ -39,5 +39,5 @@ def update_readme_section(readme_path: Path, section_name: str, section_text: st
         file_data = file_data.replace(selected_text, start + section_text + end)
 
     # * Write new content to file
-    with open(readme_path, "w") as f:
+    with open(readme_path, "w", encoding="utf-8") as f:
         f.write(file_data)
