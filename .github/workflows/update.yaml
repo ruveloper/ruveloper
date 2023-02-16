@@ -25,12 +25,13 @@ jobs:
         run: python update_bot.py
 
       - name: Commit Changes
+        # The next commands do the commit and push to origin ONLY if there are changes to be commited
         run: |
           git config user.name ruveloper
           git config user.email dev.rubencaballero@gmail.com
           git add .
-          git commit -m "[Bot] Update README"
-          git push
+          git diff --quiet && git diff --staged --quiet || git commit -m "[Bot] Update README"
+          git push origin main
           
 
 
