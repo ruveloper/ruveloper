@@ -1,0 +1,38 @@
+name: Update BOT
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Make this workflow manually executable.
+
+  schedule:
+    - cron: "0 12 * * */2" # At 12:00 on every 2nd day-of-week.
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Update BOT
+        run: python update_bot.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name ruveloper
+          git config user.email dev.rubencaballero@gmail.com
+          git add .
+          git commit -m "[Bot] Update README"
+          git push
+          
+
+
+
+

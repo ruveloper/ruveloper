@@ -28,3 +28,52 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-222680?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF)](https://github.com/features/actions)
 [![NGINX](https://img.shields.io/badge/nginx-222680?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639)](https://www.nginx.com/)
 [![Linux](https://img.shields.io/badge/linux-222680?style=for-the-badge&logo=linux&logoColor=white&labelColor=e95420)](https://www.linux.org/)
+
+## Latest Projects:
+
+<!-- LATEST-PROJECTS-LIST:START -->
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="https://www.ruveloper.dev/media/cms/0d72db9912af4a7cb8949ca054503f8e.jpg">
+<p align="center">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL">
+</p>
+</a>
+</td>
+<td>
+<a href="https://youtu.be/-pWSQYpkkjk">
+<img src="https://www.ruveloper.dev/media/cms/1839069372a9454db79ecb288d5d8b4a.jpg">
+<p align="center">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL">
+</p>
+</a>
+</td>
+<td>
+<a href="https://youtu.be/pFyAu4R684s">
+<img src="https://www.ruveloper.dev/media/cms/594f4f229a894ff6ab69ce65e4bdd8ee.jpg">
+<p align="center">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web">
+    <img height="20px" src="https://www.ruveloper.dev/media/cms/82d3548bb43248a998723dfd7d15056b.svg" alt="PostgreSQL">
+</p>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<a href="https://www.ruveloper.dev/projects/"><p align="center"><strong>VIEW MORE ABOUT MY PROJECTS</strong></p></a>
+</td>
+</tr>
+</table>
+
+<p align="right"><sub>[Bot] Projects updated on 02-15-2023</sub></p>
+<!-- LATEST-PROJECTS-LIST:END -->
