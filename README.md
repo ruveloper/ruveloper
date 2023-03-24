@@ -1,9 +1,4 @@
-<a href="https://www.ruveloper.dev" target="_blank">
-    <picture>
-        <source srcset="/media/cover.webp" type="image/webp">
-        <img src="/media/cover.png" alt="Cover image">
-    </picture>
-</a>
+[![Portfolio](media/cover.webp "Portfolio")](https://www.ruveloper.dev)
 
 ## Additionally:
 
