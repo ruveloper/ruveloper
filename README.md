@@ -45,7 +45,7 @@
 <td>
  <a href="https://www.asoribu.com">
  <img src="https://www.ruveloper.dev/media/cms/0d72db9912af4a7cb8949ca054503f8e.jpg" alt="Project ASORIBU Platform">
- <p align="center"><img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python"> <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django"> <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web"> <img height="20px" src="https://www.ruveloper.dev/media/cms/12aafc83bd944ee2baf5ebd5b32f0669.svg" alt="Bootstrap"></p>
+ <p align="center"><img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python"> <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django"> <img height="20px" src="https://www.ruveloper.dev/media/cms/8939bf27a861431fa24878a0fc4e8ca5.svg" alt="Web"> <img height="20px" src="https://www.ruveloper.dev/media/cms/12aafc83bd944ee2baf5ebd5b32f0669.svg" alt="Bootstrap"> <img height="20px" src="https://www.ruveloper.dev/media/cms/773aece10ec34bb4823dcbe850b52df0.svg" alt="Flutter"></p>
  </a>
 </td>
 </tr>
@@ -57,5 +57,5 @@
 </td>
 </tr>
 </table>
-<p align="right"><sub>[Bot] Projects updated on 03-26-2023</sub></p>
+<p align="right"><sub>[Bot] Projects updated on 03-28-2023</sub></p>
 <!-- LATEST-PROJECTS-LIST:END -->
