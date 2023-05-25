@@ -32,7 +32,7 @@
 <tr>
 <td>
  <a href="https://vims.ruveloper.dev/">
- <img src="https://www.ruveloper.dev/media/cms/83c46e927b9740c987aa63ba269aa7ab.jpg" alt="Project Vims">
+ <img src="https://www.ruveloper.dev/media/cms/9fd686ce4ee5427981d626d330b24dc1.jpg" alt="Project Vims">
  <p align="center"><img height="20px" src="https://www.ruveloper.dev/media/cms/7d1c904960bf42439c2c3af320d10cf4.svg" alt="Python"> <img height="20px" src="https://www.ruveloper.dev/media/cms/120f3773f5fe43f2bbb71a3a00344564.svg" alt="Django"> <img height="20px" src="https://www.ruveloper.dev/media/cms/5f199fd549ea4d61a169e3eb88fb6d77.svg" alt="TailwindCSS"> <img height="20px" src="https://www.ruveloper.dev/media/cms/b640ea2254a34889924910fc3bceea61.svg" alt="Pinia"> <img height="20px" src="https://www.ruveloper.dev/media/cms/4211ca89e4c5429abc490458d22874de.svg" alt="VueJS"></p>
  </a>
 </td>
